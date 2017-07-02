@@ -1,0 +1,9 @@
+E:\projects\VisualStudio\Sendemail\Sendemail\bin\Debug\Sendemail.exe.config
+E:\projects\VisualStudio\Sendemail\Sendemail\bin\Debug\Sendemail.exe
+E:\projects\VisualStudio\Sendemail\Sendemail\bin\Debug\Sendemail.pdb
+E:\projects\VisualStudio\Sendemail\Sendemail\obj\Debug\Sendemail.csprojResolveAssemblyReference.cache
+E:\projects\VisualStudio\Sendemail\Sendemail\obj\Debug\Sendemail.Form1.resources
+E:\projects\VisualStudio\Sendemail\Sendemail\obj\Debug\Sendemail.Properties.Resources.resources
+E:\projects\VisualStudio\Sendemail\Sendemail\obj\Debug\Sendemail.csproj.GenerateResource.Cache
+E:\projects\VisualStudio\Sendemail\Sendemail\obj\Debug\Sendemail.exe
+E:\projects\VisualStudio\Sendemail\Sendemail\obj\Debug\Sendemail.pdb
